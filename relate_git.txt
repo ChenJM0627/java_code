@@ -1,0 +1,11 @@
+1.移除关联远程仓库
+
+git remote rm origin
+
+2.链接远程仓库
+git remote add origin 远程仓库地址
+
+3.上传文件
+git add . 将所有文件加入到仓库中
+git commit -m "....."  添加注释
+git push-u origin master 上传
