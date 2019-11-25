@@ -1,9 +1,12 @@
 package practise;
 
-public class p_01 {
-    public static void main(String[] args) {
 
-    }
+import java.time.DayOfWeek;
+import java.time.LocalDate;
+
+public class p_01 {
+
+
 
 }
 
